@@ -1,5 +1,5 @@
 # exoBlade
-A free, open source, modern, community maintained and ease-of-use hybrid Exo/Monolithic Kernel
+A free, open source, modern, community maintained and ease-of-use hybrid Exo/Micro Kernel
 
 # Experimental
 Currently, this project is entirely experimental and a place for Stryxus to learn bare-metal programming for x86_64 and arm64. The learning of Rust, C and Assembly will also take place here. The current main branch will be moved elsewhere once the actual development beings.
